@@ -17,10 +17,6 @@ body {
   // Glassmorphism effect
   backdrop-filter: blur(10px);
 
-  // Prevent pull-to-refresh on touch devices
-  // https: //developer.chrome.com/blog/overscroll-behavior/
-  overscroll-behavior: contain;
-
     a:link {
       // Make the link color slightly brighter than default
       color: rgb(88, 88, 255);
