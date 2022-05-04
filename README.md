@@ -7,7 +7,7 @@ Explore a 3D isometric view of r/Place 2022.
 # TODO
 
 - [x] meta tags
-- [ ] social sharing buttons
+- [x] social sharing buttons
 - [ ] minimizable info section
 - [x] favicon
 - [ ] Finish README.md
