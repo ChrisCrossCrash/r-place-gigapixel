@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Chris Kumm <chrislkumm@protonmail.com> (https://www.chriskumm.com/)",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "devDependencies": {
     "@snowpack/plugin-sass": "^1.4.0",
     "@types/openseadragon": "^3.0.3",
