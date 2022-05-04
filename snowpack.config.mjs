@@ -9,4 +9,7 @@ export default {
     hostname: '0.0.0.0',
     open: 'none',
   },
+  buildOptions: {
+    sourcemap: true,
+  },
 }

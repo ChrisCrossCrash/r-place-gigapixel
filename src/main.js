@@ -4,6 +4,6 @@ import OpenSeaDragon from 'openseadragon'
 
 OpenSeaDragon({
   id: 'openseadragon',
-  prefixUrl: '/images/',
+  prefixUrl: '/images/openseadragon-assets/',
   tileSources: '/images/rplace.dzi',
 })
