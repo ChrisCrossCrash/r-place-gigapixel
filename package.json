@@ -1,0 +1,20 @@
+{
+  "name": "snowpack-html-starter",
+  "version": "1.0.0",
+  "description": "A simple HTML starter running on Snowpack",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build",
+    "format": "prettier --write .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Kumm <chrislkumm@protonmail.com> (https://www.chriskumm.com/)",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@snowpack/plugin-sass": "^1.4.0",
+    "modern-normalize": "^1.1.0",
+    "prettier": "^2.5.1",
+    "snowpack": "^3.8.8"
+  }
+}
