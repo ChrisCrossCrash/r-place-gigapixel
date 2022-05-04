@@ -13,8 +13,12 @@
   "license": "UNLICENSED",
   "devDependencies": {
     "@snowpack/plugin-sass": "^1.4.0",
+    "@types/openseadragon": "^3.0.3",
     "modern-normalize": "^1.1.0",
     "prettier": "^2.5.1",
     "snowpack": "^3.8.8"
+  },
+  "dependencies": {
+    "openseadragon": "^3.0.0"
   }
 }

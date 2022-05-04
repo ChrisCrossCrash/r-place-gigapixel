@@ -1,4 +1,9 @@
 import 'modern-normalize'
 import './styles.scss'
+import OpenSeaDragon from 'openseadragon'
 
-document.body.append('TODO: make something')
+OpenSeaDragon({
+  id: 'openseadragon',
+  prefixUrl: '/images/',
+  tileSources: '/images/rplace.dzi',
+})
