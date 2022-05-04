@@ -1,3 +1,14 @@
-# Snowpack HTML Starter
+# r/Place 2022 Gigapixel Explorer
 
-A very simple HTML, SCSS, and JS starter. It's a great alternative for using Codepen when you just want to try something simple.
+![r/Place Cover Image](/src/images/r-place-cover.jpg)
+
+Explore a 3D isometric view of r/Place 2022.
+
+# TODO
+
+- [x] meta tags
+- [ ] social sharing buttons
+- [ ] minimizable info section
+- [x] favicon
+- [ ] Finish README.md
+- [ ] Add python and node scripts
