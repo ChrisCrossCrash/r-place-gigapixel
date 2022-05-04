@@ -19,6 +19,7 @@ body {
   z-index: 1;
   border-top-left-radius: 0.5rem;
   font-size: small;
+  line-height: 0.5em;
 
   // Glassmorphism effect
   backdrop-filter: blur(10px);
@@ -39,8 +40,13 @@ body {
   height: 100vh;
 }
 
+.share-btn {
+  margin-bottom: 0.5rem;
+}
+
 .share-btn>a {
   border: 1px solid #ccc;
+  border-radius: 0.3rem;
   padding: 5px;
   font-size: 12px;
   font-family: Verdana, Arial;
