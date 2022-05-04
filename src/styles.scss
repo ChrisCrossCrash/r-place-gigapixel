@@ -1,3 +1,9 @@
+html {
+  // Prevent pull-to-refresh behavior on touch devices.
+  // https: //developer.chrome.com/blog/overscroll-behavior/
+  overscroll-behavior: contain;
+}
+
 body {
   background-color: #222;
   color: white;
