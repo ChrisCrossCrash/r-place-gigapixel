@@ -42,16 +42,26 @@ body {
 
 .share-btn {
   margin-bottom: 0.5rem;
+  display: flex;
+  gap: 0.3rem;
+  justify-content: start;
+
+  a {
+    border: 1px solid #ccc;
+    border-radius: 0.3rem;
+    padding: 5px;
+    line-height: 100%;
+    transition: background-color 0.2s;
+  }
+
+  a:hover {
+    cursor: pointer;
+    background-color: #555;
+  }
 }
 
-.share-btn>a {
-  border: 1px solid #ccc;
-  border-radius: 0.3rem;
-  padding: 5px;
-  font-size: 12px;
-  font-family: Verdana, Arial;
-}
-
-.share-btn>a:hover {
-  cursor: pointer;
+.social-icon {
+  height: 16px;
+  width: 16px;
+  fill: white;
 }
