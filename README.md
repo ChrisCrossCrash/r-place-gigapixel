@@ -1,6 +1,6 @@
 # r/Place 2022 Gigapixel Explorer
 
-![r/Place Cover Image](/src/images/r-place-cover.jpg)
+![r/Place Cover Image](/website/src/images/r-place-cover.jpg)
 
 Explore a 3D isometric view of r/Place 2022.
 
