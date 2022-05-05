@@ -1,0 +1,21 @@
+{
+  "name": "blender-gigapixel",
+  "version": "1.0.0",
+  "description": "Tools for making gigapixel images with Blender",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^17.0.31",
+    "@types/sharp": "^0.30.2",
+    "@typescript-eslint/eslint-plugin": "^5.22.0",
+    "@typescript-eslint/parser": "^5.22.0",
+    "eslint": "^8.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "^2.6.2",
+    "sharp": "^0.30.4",
+    "typescript": "^4.6.4"
+  },
+  "scripts": {
+    "watch": "tsc --watch"
+  }
+}

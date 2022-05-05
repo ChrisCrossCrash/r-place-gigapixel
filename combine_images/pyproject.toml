@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "blender-gigapixel"
+version = "0.1.0"
+description = "A set of tools for creating gigapixel images with Blender."
+authors = ["Christopher Kumm <chrislkumm@protonmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+black = "^22.3.0"
+imageio = "^2.19.0"
+Pillow = "^9.1.0"
+numpy = "^1.22.3"
+pandas = "^1.4.2"
+ipython = "^8.3.0"
+notebook = "^6.4.11"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,12 @@
+node_modules
+.eslintcache
+frames_blender
+.venv
+merged.png
+gitignored
+*.blend1
+frames_blender
+frames_color
+frames_heat
+frames_png
+merged.dzi

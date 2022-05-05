@@ -13,5 +13,5 @@ Explore a 3D isometric view of r/Place 2022.
 - [ ] minimizable info section
 - [x] favicon
 - [ ] Finish README.md
-- [ ] Add python and node scripts
+- [x] Add python and node scripts
 - [ ] Add `.blend` file
