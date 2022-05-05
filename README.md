@@ -4,6 +4,8 @@
 
 Explore a 3D isometric view of r/Place 2022.
 
+[Visit the project](https://r-place-gigapixel.vercel.app)
+
 # TODO
 
 - [x] meta tags
@@ -12,3 +14,4 @@ Explore a 3D isometric view of r/Place 2022.
 - [x] favicon
 - [ ] Finish README.md
 - [ ] Add python and node scripts
+- [ ] Add `.blend` file
